@@ -1,4 +1,4 @@
-# beaconadmin2020
+# administrater 
 
 ## Project setup
 ```
